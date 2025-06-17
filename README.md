@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Dorian511/Dorian511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on a project to *limit bad gaming habits* like overplaying and rage.
+Seeking help with developing this project, as well as general software development tips and career insight.
 
-Here are some ideas to get you started:
+Learning accounting, general engineering, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking to collaborate on beginner projects to develop skills.
+
+**@dorian511_** on Instagram and Discord. 
+
+I love the Sun.
+
+> One of the first conditions of happiness is that the link between man and nature shall not be broken.
